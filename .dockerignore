@@ -1,0 +1,7 @@
+vendor
+#docker
+
+.env.example
+.env.testing
+
+# need to also ignore encryption keys and do proper laravel setup
